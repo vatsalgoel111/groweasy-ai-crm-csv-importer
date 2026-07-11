@@ -1,5 +1,5 @@
 {
-  "name": "AI CRM CSV Importer",
+  "name": "GrowEasy AI CRM Importer",
   "description": "An AI-powered CSV importer that intelligently extracts and normalizes CRM lead records from any valid CSV layout.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
